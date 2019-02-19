@@ -4,6 +4,8 @@ A fresh implementation of Shadowsocks in Go.
 
 GoDoc at https://godoc.org/github.com/shadowsocks/go-shadowsocks2/
 
+`wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh`
+
 [![Build Status](https://travis-ci.org/shadowsocks/go-shadowsocks2.svg?branch=master)](https://travis-ci.org/shadowsocks/go-shadowsocks2)
 
 
